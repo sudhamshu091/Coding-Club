@@ -1,0 +1,5 @@
+n = int(input("Enter a number:"))
+binary = bin(n)
+string = str(binary)
+result = string.find('11')
+print(result-2)
