@@ -22,7 +22,7 @@ int reverseBits(unsigned int num)
 
 int main() 
 { 
-    int x = 12456;  
+    int x = 1691315356;  
     printf("%u", reverseBits(x));     
     return 0; 
 }  
